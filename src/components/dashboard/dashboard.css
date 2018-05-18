@@ -1,0 +1,20 @@
+
+
+.dashboard .content{
+  position: relative;
+  padding: 45px 0 55px 0;
+  z-index: 1;
+}
+
+.top-bar{
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 2;
+}
+.bottom-bar{
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  z-index: 2;
+}

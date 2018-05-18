@@ -1,0 +1,10 @@
+.avatarSelector{
+  position: relative;
+}
+.avatarSelector .nowTx{
+  position: relative;
+}
+.avatarSelector .nowTx img{
+  width: 16px;
+  height: 16px;
+}

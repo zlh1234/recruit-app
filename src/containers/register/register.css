@@ -1,0 +1,7 @@
+.register{
+  position: relative;
+}
+.register .msgTitle{
+    color: firebrick;
+    margin-left: 10px;
+  }

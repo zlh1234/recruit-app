@@ -1,0 +1,11 @@
+
+.logoContainer{
+  margin-top: 50px;
+  margin-bottom: 20px;
+  text-align: center;
+  
+}
+.logoContainer span{
+  font-size: 5vh;
+  color: green;
+}

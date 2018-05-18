@@ -1,0 +1,7 @@
+.login {
+  position: relative;
+}
+.login .msgTitle {
+    color: firebrick;
+    margin-left: 10px;
+  }
